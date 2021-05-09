@@ -3,7 +3,7 @@ This is a basic Web Based Todo List app created using bootstrap and flask
 
 
 ## Requirements
-python version 3.9.1+
+Python Version 3.9.1+
 
 ## Setup
 
