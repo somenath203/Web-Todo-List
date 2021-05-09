@@ -12,12 +12,13 @@ Open any independent or IDE Based Terminal.
 Then, navigate to that directory where you have downloaded the repository by using `cd directory-name` 
 
 Then, inside the same terminal, write
+`cd Web-Todo-List`
 
-```
-cd Web-Todo-List
+Then, after entering inside `Web-Todo-List` directory, we need to install flask.
 
-pip install flask
-```
+To install flask, write 
+`pip install flask'
+
 
 ## Running the Server
 
