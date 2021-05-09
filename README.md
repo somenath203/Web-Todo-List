@@ -9,7 +9,7 @@ python version 3.9.1+
 
 Open any independent or IDE Based Terminal.
 
-Then, navigate to that directory where you have downloaded the repository by using `cd directory-name` 
+Then, navigate to that directory where repository is downloaded by using the command `cd directory-name` 
 
 
 Then, inside the same terminal, write
