@@ -1,6 +1,6 @@
 # Web-Todo-List
 This is a basic Web Based Todo List app created using bootstrap and flask. With this Web Based App, the user can create and store as many todo lists as possible. The user also
-has the option of updating/editing any added todo list and also the user can delete any todo list if he/she wants.
+has the option of updating/editing any added todo list and also the user can delete any added todo list if he/she wants.
 
 
 ## Requirements
