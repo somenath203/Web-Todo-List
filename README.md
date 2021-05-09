@@ -9,7 +9,7 @@ You must make sure sure that you have python version 3.9.1+ installed in your sy
 
 Open any independent or IDE Based Terminal and type.
 
-Then, navigate to that directory where you have downloaded the repository by using `cd directory_name` 
+Then, navigate to that directory where you have downloaded the repository by using `cd directory-name` 
 
 Then, inside the same terminal, write
 
